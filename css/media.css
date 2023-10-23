@@ -1,0 +1,359 @@
+@media (max-width: 1440px){
+    .container{
+        width: 90%;
+    }
+    .nav {
+        gap: 74px;
+    }
+}
+@media(max-width: 1300px){
+    .card {
+        width: 297px;
+        height: 276px;
+    }
+}
+@media(max-width: 1200px){
+    .header h1 {
+        font-size: 21px;
+    }
+    .nav a {
+        font-size: 14px;
+    }
+    .header button {
+        font-size: 14px;
+        padding: 8px 22px;
+    }
+    .hero h2 {
+        font-size: 13px;
+    }
+    .hero h1 {
+        font-size: 29px;
+        line-height: 45px;
+    }
+    .hero p {
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .btn-one {
+        font-size: 13px;
+        padding: 12px 30px;
+    }
+    .btn-two {
+        font-size: 14px;
+        padding: 12px 37px;
+    }
+    .card img{
+        width: 36px;
+    }
+    .card h1 {
+        font-size: 16px;
+        padding: 16px 0px;
+    }
+    .card p {
+        font-size: 15px;
+        line-height: 27px;
+    }
+    .card {
+        width: 265px;
+        height: 236px;
+    }
+    .footer img{
+        width: 94px;
+    }
+}
+@media(max-width: 1100px){
+    .card {
+        width: 232px;
+        height: 236px;
+    }
+}
+@media(max-width:992px){
+    .card {
+        padding: 25px 0px 0px 20px
+    }
+    .card {
+        width: 224px;
+        height: 227px;
+    }
+    .nav {
+        gap: 53px;
+    }
+    .header h1 {
+        font-size: 18px;
+    }
+    .header button {
+        font-size: 11px;
+    }
+    .nav a {
+        font-size: 12px;
+    }
+}
+@media(max-width:885px){
+    .card img {
+        width: 28px;
+    }
+    .card h1 {
+        font-size: 11px;
+        padding: 16px 0px;
+    }
+    .card p {
+        font-size: 10px;
+        line-height: 22px;
+    }
+    .card {
+        width: 203px;
+        height: 205px;
+    }
+}
+@media(max-width:808px){
+    .card img {
+        width: 21px;
+    }
+    .card h1 {
+        font-size: 9px;
+        padding: 12px 0px;
+    }
+    .card p {
+        font-size: 9px;
+        line-height: 19px;
+    }
+    .card {
+        width: 176px;
+        height: 161px;
+    }
+    .footer img {
+        width: 72px;
+    }
+}
+@media(max-width:768px){
+    .header h1 {
+        font-size: 12px;
+    }
+    .nav {
+        gap: 38px;
+    }
+    .nav a {
+        font-size: 10px;
+    }
+    .header button {
+        font-size: 8px;
+        padding: 6px 18p
+    }
+    .hero h2 {
+        font-size: 10px;
+    }
+    .hero h1 {
+        font-size: 24px;
+        line-height: 38px;
+    }
+    .hero p {
+        font-size: 12px;
+        line-height: 24px;
+    }
+    .btn-one {
+        font-size: 10px;
+        padding: 12px 24px;
+    }
+    .btn-two {
+        font-size: 11px;
+        padding: 12px 27px;
+    }
+}
+@media(max-width:696px){
+    .card img {
+        width: 19px;
+    }
+    .card h1 {
+        font-size: 7px;
+        padding: 9px 0px;
+    }
+    .card p {
+        font-size: 8px;
+        line-height: 16px;
+    }
+    .card {
+        width: 146px;
+        height: 130px;
+    }
+}
+@media(max-width:576px){
+    .header h1 {
+        font-size: 10px;
+    }
+    .nav {
+        gap: 26px;
+    }
+    .nav a {
+        font-size: 8px;
+    }
+    .header button {
+        font-size: 7px;
+        padding: 4px 15p;
+    }
+    .hero h2 {
+        font-size: 8px;
+    }
+    .hero h1 {
+        font-size: 18px;
+        line-height: 29px;
+    }
+    .hero p {
+        font-size: 10px;
+        line-height: 20px;
+    }
+    .hero {
+        gap: 22px;
+    }
+    .btn-one {
+        font-size: 8px;
+        padding: 9px 19px;
+        width: 90px;
+        height: 30px;
+    }
+    .btn-two {
+        font-size: 8px;
+        padding: 9px 21px;
+    }
+    .card {
+        width: 123px;
+        height: 116px;
+    }
+    .card img {
+        width: 17px;
+    }
+    .card h1 {
+        font-size: 6px;
+        padding: 10px 0px;
+    }
+    .card p {
+        font-size: 7px;
+        line-height: 11px;
+    }
+    .card {
+        padding: 12px 0px 0px 10px
+    }
+    .footer img {
+        width: 56px;
+    }
+}
+@media(max-width:476px){
+    .header h1 {
+        font-size: 8px;
+    }
+    .nav {
+        gap: 19px;
+    }
+    .nav a {
+        font-size: 7px;
+    }
+    .header button {
+        font-size: 6px;
+        padding: 6px 19px;
+    }
+    .hero h2 {
+        font-size: 6px;
+    }
+    .hero h1 {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .hero p {
+        font-size: 9px;
+        line-height: 18px;
+    }
+    .btn-one {
+        font-size: 7px;
+        padding: 6px 13px;
+        width: 75px;
+        height: 26px;
+    }
+    .btn-two {
+        font-size: 7px;
+        padding: 7px 19px;
+    }
+    .card {
+        padding: 9px 0px 0px 7px;
+        width: 107px;
+    height: 101px;
+    }
+    .footer img {
+        width: 50px;
+    }
+}
+@media(max-width: 400px){
+    .nav {
+        gap: 13px;
+    }
+    .nav a {
+        font-size: 6px;
+    }
+    .header h1 {
+        font-size: 7px;
+    }
+    .header button {
+        font-size: 5px;
+        padding: 4px 15px;
+    }
+    .hero h2 {
+        font-size: 5px;
+    }
+    .hero h1 {
+        font-size: 12px;
+        line-height: 20px;
+    }
+    .hero p {
+        font-size: 7px;
+        line-height: 14px;
+    }
+    .btn-one {
+        font-size: 6px;
+        padding: 4px 9px;
+        width: 61px;
+        height: 21px;
+    }
+    .btn-two {
+        font-size: 6px;
+        padding: 6px 13px;
+    }
+    .card img {
+        width: 15px;
+    }
+    .card h1 {
+        font-size: 5px;
+        padding: 10px 0px;
+    }
+    .card p {
+        font-size: 5px;
+        line-height: 10px;
+    }
+    .card {
+        padding: 9px 0px 0px 7px;
+        width: 90px;
+        height: 91px;
+    }
+    .footer img {
+        width: 44px;
+    }
+
+}
+@media(max-width:340px){
+    .card img {
+        width: 12px;
+    }
+    .card h1 {
+        font-size: 5px;
+        padding: 5px 0px;
+    }
+    .card p {
+        font-size: 4px;
+        line-height: 7px;
+    }
+    .card {
+        padding: 9px 0px 0px 7px;
+        width: 77px;
+        height: 74px;
+    }
+    .footer img {
+        width: 35px;
+    }    
+}
